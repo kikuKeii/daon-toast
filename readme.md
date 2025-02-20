@@ -5,6 +5,20 @@
 
 ---
 
+## Bootstarp & Jquery
+You need to import the **Bootstrap** and **Jquery** libraries before using **Daon Toast**.
+
+## Clone Daon Toast
+```
+git clone https://github.com/kikuKeii/daon-toast.git
+```
+
+or 
+## CDN Daon Toast
+```
+https://cdn.jsdelivr.net/gh/kikuKeii/daon-toast@refs/heads/master/dist/daon-toast.min.js
+```
+
 ## Initializing Daon Toast
 Before using **Daon Toast**, you need to initialize it using the `initDaon()` function. This function accepts a configuration object with several optional parameters.
 
